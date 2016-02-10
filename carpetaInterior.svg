@@ -27,9 +27,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.3349109"
-     inkscape:cx="944.45117"
-     inkscape:cy="680.00746"
+     inkscape:zoom="0.5126713"
+     inkscape:cx="851.82494"
+     inkscape:cy="722.95096"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -47,8 +47,8 @@
      inkscape:snap-grids="false"
      inkscape:snap-to-guides="false"
      inkscape:bbox-nodes="true"
-     inkscape:snap-global="true"
-     showguides="false" />
+     inkscape:snap-global="false"
+     showguides="true" />
   <defs
      id="defs4">
     <inkscape:path-effect
@@ -245,7 +245,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -280,438 +280,438 @@
     <image
        sodipodi:absref="/home/creawww/DATOS/020_NOVATERRA/Novaterra/carpetas_Novaterra/foto/5.jpg"
        xlink:href="foto/5.jpg"
-       inkscape:transform-center-y="-107.0111"
-       inkscape:transform-center-x="-8.5990946"
-       y="679.49298"
-       x="787.75098"
-       id="image4279"
-       preserveAspectRatio="none"
+       width="153.90561"
        height="117.07936"
-       width="153.90561" />
+       preserveAspectRatio="none"
+       id="image4279"
+       x="787.75098"
+       y="679.49298"
+       inkscape:transform-center-x="-8.5990946"
+       inkscape:transform-center-y="-107.0111" />
     <g
        id="g4476"
        style="filter:url(#filter4635)">
       <image
          sodipodi:absref="/home/creawww/DATOS/020_NOVATERRA/Novaterra/carpetas_Novaterra/foto/1.jpg"
          xlink:href="foto/1.jpg"
-         width="76.937843"
-         height="117.07936"
-         preserveAspectRatio="none"
-         id="image4200"
+         y="2.14046"
          x="12.769759"
-         y="2.14046" />
+         id="image4200"
+         preserveAspectRatio="none"
+         height="117.07936"
+         width="76.937843" />
       <image
          sodipodi:absref="/home/creawww/DATOS/020_NOVATERRA/Novaterra/carpetas_Novaterra/foto/44.jpg"
          xlink:href="foto/44.jpg"
-         y="1030.7311"
-         x="172.12842"
-         id="image4203"
-         preserveAspectRatio="none"
+         width="76.952805"
          height="117.07936"
-         width="76.952805" />
+         preserveAspectRatio="none"
+         id="image4203"
+         x="172.12842"
+         y="1030.7311" />
       <image
          sodipodi:absref="/home/creawww/DATOS/020_NOVATERRA/Novaterra/carpetas_Novaterra/foto/14.jpg"
          xlink:href="foto/14.jpg"
-         width="76.952805"
-         height="117.07936"
-         preserveAspectRatio="none"
-         id="image4205"
+         y="2.14046"
          x="474.47171"
-         y="2.14046" />
+         id="image4205"
+         preserveAspectRatio="none"
+         height="117.07936"
+         width="76.952805" />
       <image
          sodipodi:absref="/home/creawww/DATOS/020_NOVATERRA/Novaterra/carpetas_Novaterra/foto/21.jpg"
          xlink:href="foto/21.jpg"
-         y="1030.7311"
-         x="479.93967"
-         id="image4207"
-         preserveAspectRatio="none"
+         width="153.90561"
          height="117.07936"
-         width="153.90561" />
+         preserveAspectRatio="none"
+         id="image4207"
+         x="479.93967"
+         y="1030.7311" />
       <image
          sodipodi:absref="/home/creawww/DATOS/020_NOVATERRA/Novaterra/carpetas_Novaterra/foto/8.jpg"
          xlink:href="foto/8.jpg"
-         width="153.90561"
-         height="117.07936"
-         preserveAspectRatio="none"
-         id="image4209"
+         y="913.65173"
          x="556.89258"
-         y="913.65173" />
+         id="image4209"
+         preserveAspectRatio="none"
+         height="117.07936"
+         width="153.90561" />
       <image
          sodipodi:absref="/home/creawww/DATOS/020_NOVATERRA/Novaterra/carpetas_Novaterra/foto/54.jpg"
          xlink:href="foto/54.jpg"
-         y="2.14046"
-         x="243.61325"
-         id="image4213"
-         preserveAspectRatio="none"
+         width="76.952805"
          height="117.07936"
-         width="76.952805" />
+         preserveAspectRatio="none"
+         id="image4213"
+         x="243.61325"
+         y="2.14046" />
       <image
          sodipodi:absref="/home/creawww/DATOS/020_NOVATERRA/Novaterra/carpetas_Novaterra/foto/2.jpg"
          xlink:href="foto/2.jpg"
-         y="119.21983"
-         x="166.66042"
-         id="image4217"
-         preserveAspectRatio="none"
+         width="76.952805"
          height="117.07936"
-         width="76.952805" />
+         preserveAspectRatio="none"
+         id="image4217"
+         x="166.66042"
+         y="119.21983" />
       <image
          sodipodi:absref="/home/creawww/DATOS/020_NOVATERRA/Novaterra/carpetas_Novaterra/foto/22.jpg"
          xlink:href="foto/22.jpg"
-         y="119.21983"
-         x="12.754807"
-         id="image4219"
-         preserveAspectRatio="none"
+         width="153.90561"
          height="117.07936"
-         width="153.90561" />
+         preserveAspectRatio="none"
+         id="image4219"
+         x="12.754807"
+         y="119.21983" />
       <image
          sodipodi:absref="/home/creawww/DATOS/020_NOVATERRA/Novaterra/carpetas_Novaterra/foto/28.jpg"
          xlink:href="foto/28.jpg"
-         y="796.57233"
-         x="402.98685"
-         id="image4223"
-         preserveAspectRatio="none"
+         width="76.952805"
          height="117.07936"
-         width="76.952805" />
+         preserveAspectRatio="none"
+         id="image4223"
+         x="402.98685"
+         y="796.57233" />
       <image
          sodipodi:absref="/home/creawww/DATOS/020_NOVATERRA/Novaterra/carpetas_Novaterra/foto/13.jpg"
          xlink:href="foto/13.jpg"
-         width="153.90561"
-         height="117.07936"
-         preserveAspectRatio="none"
-         id="image4225"
+         y="353.37854"
          x="12.754807"
-         y="353.37854" />
+         id="image4225"
+         preserveAspectRatio="none"
+         height="117.07936"
+         width="153.90561" />
       <image
          sodipodi:absref="/home/creawww/DATOS/020_NOVATERRA/Novaterra/carpetas_Novaterra/foto/70.jpg"
          xlink:href="foto/70.jpg"
-         y="2.14046"
-         x="551.42456"
-         id="image4227"
-         preserveAspectRatio="none"
+         width="153.90561"
          height="117.07936"
-         width="153.90561" />
+         preserveAspectRatio="none"
+         id="image4227"
+         x="551.42456"
+         y="2.14046" />
       <image
          sodipodi:absref="/home/creawww/DATOS/020_NOVATERRA/Novaterra/carpetas_Novaterra/foto/35.jpg"
          xlink:href="foto/35.jpg"
-         y="236.29919"
-         x="89.707611"
-         id="image4229"
-         preserveAspectRatio="none"
+         width="153.90561"
          height="117.07936"
-         width="153.90561" />
+         preserveAspectRatio="none"
+         id="image4229"
+         x="89.707611"
+         y="236.29919" />
       <image
          sodipodi:absref="/home/creawww/DATOS/020_NOVATERRA/Novaterra/carpetas_Novaterra/foto/52.jpg"
          xlink:href="foto/52.jpg"
-         width="76.952805"
-         height="117.07936"
-         preserveAspectRatio="none"
-         id="image4231"
+         y="236.29919"
          x="12.754807"
-         y="236.29919" />
+         id="image4231"
+         preserveAspectRatio="none"
+         height="117.07936"
+         width="76.952805" />
       <image
          sodipodi:absref="/home/creawww/DATOS/020_NOVATERRA/Novaterra/carpetas_Novaterra/foto/46.jpg"
          xlink:href="foto/46.jpg"
-         y="119.21983"
-         x="628.37738"
-         id="image4233"
-         preserveAspectRatio="none"
+         width="76.952805"
          height="117.07936"
-         width="76.952805" />
+         preserveAspectRatio="none"
+         id="image4233"
+         x="628.37738"
+         y="119.21983" />
       <image
          sodipodi:absref="/home/creawww/DATOS/020_NOVATERRA/Novaterra/carpetas_Novaterra/foto/47.jpg"
          xlink:href="foto/47.jpg"
-         width="76.952805"
-         height="117.07936"
-         preserveAspectRatio="none"
-         id="image4235"
+         y="913.65173"
          x="249.08121"
-         y="913.65173" />
+         id="image4235"
+         preserveAspectRatio="none"
+         height="117.07936"
+         width="76.952805" />
       <image
          sodipodi:absref="/home/creawww/DATOS/020_NOVATERRA/Novaterra/carpetas_Novaterra/foto/17.jpg"
          xlink:href="foto/17.jpg"
-         y="1030.7311"
-         x="633.8454"
-         id="image4237"
-         preserveAspectRatio="none"
+         width="76.952805"
          height="117.07936"
-         width="76.952805" />
+         preserveAspectRatio="none"
+         id="image4237"
+         x="633.8454"
+         y="1030.7311" />
       <image
          sodipodi:absref="/home/creawww/DATOS/020_NOVATERRA/Novaterra/carpetas_Novaterra/foto/51.jpg"
          xlink:href="foto/51.jpg"
-         width="76.952805"
-         height="117.07936"
-         preserveAspectRatio="none"
-         id="image4239"
+         y="353.37854"
          x="166.66042"
-         y="353.37854" />
+         id="image4239"
+         preserveAspectRatio="none"
+         height="117.07936"
+         width="76.952805" />
       <image
          sodipodi:absref="/home/creawww/DATOS/020_NOVATERRA/Novaterra/carpetas_Novaterra/foto/9.jpg"
          xlink:href="foto/9.jpg"
-         width="153.90561"
-         height="117.07936"
-         preserveAspectRatio="none"
-         id="image4241"
+         y="796.57233"
          x="710.79816"
-         y="796.57233" />
+         id="image4241"
+         preserveAspectRatio="none"
+         height="117.07936"
+         width="153.90561" />
       <image
          sodipodi:absref="/home/creawww/DATOS/020_NOVATERRA/Novaterra/carpetas_Novaterra/foto/71.jpg"
          xlink:href="foto/71.jpg"
-         y="1030.7311"
-         x="249.08124"
-         id="image4243"
-         preserveAspectRatio="none"
+         width="153.90561"
          height="117.07936"
-         width="153.90561" />
+         preserveAspectRatio="none"
+         id="image4243"
+         x="249.08124"
+         y="1030.7311" />
       <image
          sodipodi:absref="/home/creawww/DATOS/020_NOVATERRA/Novaterra/carpetas_Novaterra/foto/49.jpg"
          xlink:href="foto/49.jpg"
-         y="2.14046"
-         x="705.33014"
-         id="image4245"
-         preserveAspectRatio="none"
+         width="76.952805"
          height="117.07936"
-         width="76.952805" />
+         preserveAspectRatio="none"
+         id="image4245"
+         x="705.33014"
+         y="2.14046" />
       <image
          sodipodi:absref="/home/creawww/DATOS/020_NOVATERRA/Novaterra/carpetas_Novaterra/foto/31.jpg"
          xlink:href="foto/31.jpg"
-         width="153.90561"
-         height="117.07936"
-         preserveAspectRatio="none"
-         id="image4247"
+         y="913.65173"
          x="326.034"
-         y="913.65173" />
+         id="image4247"
+         preserveAspectRatio="none"
+         height="117.07936"
+         width="153.90561" />
       <image
          sodipodi:absref="/home/creawww/DATOS/020_NOVATERRA/Novaterra/carpetas_Novaterra/foto/34.jpg"
          xlink:href="foto/34.jpg"
-         y="1030.7311"
-         x="710.79816"
-         id="image4249"
-         preserveAspectRatio="none"
+         width="153.90561"
          height="117.07936"
-         width="153.90561" />
+         preserveAspectRatio="none"
+         id="image4249"
+         x="710.79816"
+         y="1030.7311" />
       <image
          sodipodi:absref="/home/creawww/DATOS/020_NOVATERRA/Novaterra/carpetas_Novaterra/foto/55.jpg"
          xlink:href="foto/55.jpg"
-         width="153.90561"
-         height="117.07936"
-         preserveAspectRatio="none"
-         id="image4255"
+         y="2.14046"
          x="89.707611"
-         y="2.14046" />
+         id="image4255"
+         preserveAspectRatio="none"
+         height="117.07936"
+         width="153.90561" />
       <image
          sodipodi:absref="/home/creawww/DATOS/020_NOVATERRA/Novaterra/carpetas_Novaterra/foto/26.jpg"
          xlink:href="foto/26.jpg"
-         y="236.29919"
-         x="320.56604"
-         id="image4257"
-         preserveAspectRatio="none"
+         width="153.90561"
          height="117.07936"
-         width="153.90561" />
+         preserveAspectRatio="none"
+         id="image4257"
+         x="320.56604"
+         y="236.29919" />
       <image
          sodipodi:absref="/home/creawww/DATOS/020_NOVATERRA/Novaterra/carpetas_Novaterra/foto/53.jpg"
          xlink:href="foto/53.jpg"
-         width="76.952805"
-         height="117.07936"
-         preserveAspectRatio="none"
-         id="image4259"
+         y="1030.7311"
          x="402.98685"
-         y="1030.7311" />
+         id="image4259"
+         preserveAspectRatio="none"
+         height="117.07936"
+         width="76.952805" />
       <image
          sodipodi:absref="/home/creawww/DATOS/020_NOVATERRA/Novaterra/carpetas_Novaterra/foto/19.jpg"
          xlink:href="foto/19.jpg"
-         width="153.90561"
-         height="117.07936"
-         preserveAspectRatio="none"
-         id="image4261"
+         y="2.14046"
          x="320.56604"
-         y="2.14046" />
+         id="image4261"
+         preserveAspectRatio="none"
+         height="117.07936"
+         width="153.90561" />
       <image
          sodipodi:absref="/home/creawww/DATOS/020_NOVATERRA/Novaterra/carpetas_Novaterra/foto/42.jpg"
          xlink:href="foto/42.jpg"
-         inkscape:transform-center-y="-107.01111"
-         inkscape:transform-center-x="-8.5990693"
-         y="119.21983"
-         x="705.33014"
-         id="image4263"
-         preserveAspectRatio="none"
+         width="153.90561"
          height="117.07936"
-         width="153.90561" />
+         preserveAspectRatio="none"
+         id="image4263"
+         x="705.33014"
+         y="119.21983"
+         inkscape:transform-center-x="-8.5990693"
+         inkscape:transform-center-y="-107.01111" />
       <image
          sodipodi:absref="/home/creawww/DATOS/020_NOVATERRA/Novaterra/carpetas_Novaterra/foto/41.jpg"
          xlink:href="foto/41.jpg"
-         width="153.90561"
-         height="117.07936"
-         preserveAspectRatio="none"
-         id="image4265"
-         x="12.754807"
-         y="470.45789"
+         inkscape:transform-center-y="-107.01114"
          inkscape:transform-center-x="-8.5991051"
-         inkscape:transform-center-y="-107.01114" />
+         y="470.45789"
+         x="12.754807"
+         id="image4265"
+         preserveAspectRatio="none"
+         height="117.07936"
+         width="153.90561" />
       <image
          sodipodi:absref="/home/creawww/DATOS/020_NOVATERRA/Novaterra/carpetas_Novaterra/foto/24.jpg"
          xlink:href="foto/24.jpg"
-         width="153.90561"
-         height="117.07936"
-         preserveAspectRatio="none"
-         id="image4269"
-         x="95.175575"
-         y="913.65173"
+         inkscape:transform-center-y="-107.01109"
          inkscape:transform-center-x="-8.5990974"
-         inkscape:transform-center-y="-107.01109" />
+         y="913.65173"
+         x="95.175575"
+         id="image4269"
+         preserveAspectRatio="none"
+         height="117.07936"
+         width="153.90561" />
       <image
          sodipodi:absref="/home/creawww/DATOS/020_NOVATERRA/Novaterra/carpetas_Novaterra/foto/4.jpg"
          xlink:href="foto/4.jpg"
-         inkscape:transform-center-y="-107.0111"
-         inkscape:transform-center-x="-8.5990999"
-         y="119.21983"
-         x="243.61325"
-         id="image4273"
-         preserveAspectRatio="none"
-         height="117.07936"
-         width="153.90561" />
-      <image
-         sodipodi:absref="/home/creawww/DATOS/020_NOVATERRA/Novaterra/carpetas_Novaterra/foto/12.jpg"
-         xlink:href="foto/12.jpg"
-         inkscape:transform-center-y="-107.01115"
-         inkscape:transform-center-x="-8.5991009"
-         y="1030.7311"
-         x="18.222778"
-         id="image4277"
-         preserveAspectRatio="none"
-         height="117.07936"
-         width="153.90561" />
-      <image
-         sodipodi:absref="/home/creawww/DATOS/020_NOVATERRA/Novaterra/carpetas_Novaterra/foto/32.jpg"
-         xlink:href="foto/32.jpg"
-         inkscape:transform-center-y="-107.01114"
-         inkscape:transform-center-x="-8.5991067"
-         y="796.57233"
-         x="479.93967"
-         id="image4281"
-         preserveAspectRatio="none"
-         height="117.07936"
-         width="153.90561" />
-      <image
-         sodipodi:absref="/home/creawww/DATOS/020_NOVATERRA/Novaterra/carpetas_Novaterra/foto/27.jpg"
-         xlink:href="foto/27.jpg"
-         inkscape:transform-center-y="-107.0111"
-         inkscape:transform-center-x="-8.5991015"
-         y="119.21983"
-         x="474.47171"
-         id="image4285"
-         preserveAspectRatio="none"
-         height="117.07936"
-         width="153.90561" />
-      <image
-         sodipodi:absref="/home/creawww/DATOS/020_NOVATERRA/Novaterra/carpetas_Novaterra/foto/20.jpg"
-         xlink:href="foto/20.jpg"
          width="153.90561"
          height="117.07936"
          preserveAspectRatio="none"
-         id="image4287"
-         x="243.61322"
-         y="353.37854"
+         id="image4273"
+         x="243.61325"
+         y="119.21983"
+         inkscape:transform-center-x="-8.5990999"
+         inkscape:transform-center-y="-107.0111" />
+      <image
+         sodipodi:absref="/home/creawww/DATOS/020_NOVATERRA/Novaterra/carpetas_Novaterra/foto/12.jpg"
+         xlink:href="foto/12.jpg"
+         width="153.90561"
+         height="117.07936"
+         preserveAspectRatio="none"
+         id="image4277"
+         x="18.222778"
+         y="1030.7311"
+         inkscape:transform-center-x="-8.5991009"
+         inkscape:transform-center-y="-107.01115" />
+      <image
+         sodipodi:absref="/home/creawww/DATOS/020_NOVATERRA/Novaterra/carpetas_Novaterra/foto/32.jpg"
+         xlink:href="foto/32.jpg"
+         width="153.90561"
+         height="117.07936"
+         preserveAspectRatio="none"
+         id="image4281"
+         x="479.93967"
+         y="796.57233"
+         inkscape:transform-center-x="-8.5991067"
+         inkscape:transform-center-y="-107.01114" />
+      <image
+         sodipodi:absref="/home/creawww/DATOS/020_NOVATERRA/Novaterra/carpetas_Novaterra/foto/27.jpg"
+         xlink:href="foto/27.jpg"
+         width="153.90561"
+         height="117.07936"
+         preserveAspectRatio="none"
+         id="image4285"
+         x="474.47171"
+         y="119.21983"
+         inkscape:transform-center-x="-8.5991015"
+         inkscape:transform-center-y="-107.0111" />
+      <image
+         sodipodi:absref="/home/creawww/DATOS/020_NOVATERRA/Novaterra/carpetas_Novaterra/foto/20.jpg"
+         xlink:href="foto/20.jpg"
+         inkscape:transform-center-y="-107.01109"
          inkscape:transform-center-x="-8.5990985"
-         inkscape:transform-center-y="-107.01109" />
+         y="353.37854"
+         x="243.61322"
+         id="image4287"
+         preserveAspectRatio="none"
+         height="117.07936"
+         width="153.90561" />
       <image
          sodipodi:absref="/home/creawww/DATOS/020_NOVATERRA/Novaterra/carpetas_Novaterra/foto/3.jpg"
          xlink:href="foto/3.jpg"
-         y="679.49298"
-         x="710.79816"
-         id="image4289"
-         preserveAspectRatio="none"
+         width="76.952805"
          height="117.07936"
-         width="76.952805" />
+         preserveAspectRatio="none"
+         id="image4289"
+         x="710.79816"
+         y="679.49298" />
       <image
          sodipodi:absref="/home/creawww/DATOS/020_NOVATERRA/Novaterra/carpetas_Novaterra/foto/6.jpg"
          xlink:href="foto/6.jpg"
-         width="76.952805"
-         height="117.07936"
-         preserveAspectRatio="none"
-         id="image4291"
+         y="119.21983"
          x="397.51892"
-         y="119.21983" />
+         id="image4291"
+         preserveAspectRatio="none"
+         height="117.07936"
+         width="76.952805" />
       <image
          sodipodi:absref="/home/creawww/DATOS/020_NOVATERRA/Novaterra/carpetas_Novaterra/foto/48.jpg"
          xlink:href="foto/48.jpg"
-         y="913.65173"
-         x="787.75098"
-         id="image4293"
-         preserveAspectRatio="none"
+         width="76.952805"
          height="117.07936"
-         width="76.952805" />
+         preserveAspectRatio="none"
+         id="image4293"
+         x="787.75098"
+         y="913.65173" />
       <image
          sodipodi:absref="/home/creawww/DATOS/020_NOVATERRA/Novaterra/carpetas_Novaterra/foto/15.jpg"
          xlink:href="foto/15.jpg"
-         width="76.952805"
-         height="117.07936"
-         preserveAspectRatio="none"
-         id="image4295"
+         y="236.29919"
          x="243.61325"
-         y="236.29919" />
+         id="image4295"
+         preserveAspectRatio="none"
+         height="117.07936"
+         width="76.952805" />
       <image
          sodipodi:absref="/home/creawww/DATOS/020_NOVATERRA/Novaterra/carpetas_Novaterra/foto/18.jpg"
          xlink:href="foto/18.jpg"
-         y="562.41364"
-         x="787.75098"
-         id="image4297"
-         preserveAspectRatio="none"
+         width="76.952805"
          height="117.07936"
-         width="76.952805" />
+         preserveAspectRatio="none"
+         id="image4297"
+         x="787.75098"
+         y="562.41364" />
       <image
          sodipodi:absref="/home/creawww/DATOS/020_NOVATERRA/Novaterra/carpetas_Novaterra/foto/43.jpg"
          xlink:href="foto/43.jpg"
-         width="76.952805"
-         height="117.07936"
-         preserveAspectRatio="none"
-         id="image4299"
+         y="913.65173"
          x="479.93967"
-         y="913.65173" />
+         id="image4299"
+         preserveAspectRatio="none"
+         height="117.07936"
+         width="76.952805" />
       <image
          sodipodi:absref="/home/creawww/DATOS/020_NOVATERRA/Novaterra/carpetas_Novaterra/foto/54.jpg"
          xlink:href="foto/54.jpg"
-         y="796.57233"
-         x="633.8454"
-         id="image4301"
-         preserveAspectRatio="none"
+         width="76.952805"
          height="117.07936"
-         width="76.952805" />
+         preserveAspectRatio="none"
+         id="image4301"
+         x="633.8454"
+         y="796.57233" />
       <image
          sodipodi:absref="/home/creawww/DATOS/020_NOVATERRA/Novaterra/carpetas_Novaterra/foto/50.jpg"
          xlink:href="foto/50.jpg"
-         width="76.952805"
-         height="117.07936"
-         preserveAspectRatio="none"
-         id="image4303"
+         y="913.65173"
          x="710.79816"
-         y="913.65173" />
+         id="image4303"
+         preserveAspectRatio="none"
+         height="117.07936"
+         width="76.952805" />
       <image
          sodipodi:absref="/home/creawww/DATOS/020_NOVATERRA/Novaterra/carpetas_Novaterra/foto/16.jpg"
          xlink:href="foto/16.jpg"
-         y="2.1593461"
-         x="778.72357"
-         id="image4305"
-         preserveAspectRatio="none"
-         height="117.07936"
-         width="76.952805" />
-      <image
-         sodipodi:absref="/home/creawww/DATOS/020_NOVATERRA/Novaterra/carpetas_Novaterra/foto/45.jpg"
-         xlink:href="foto/45.jpg"
          width="76.952805"
          height="117.07936"
          preserveAspectRatio="none"
-         id="image4307"
-         x="474.47171"
-         y="236.29919" />
+         id="image4305"
+         x="778.72357"
+         y="2.1593461" />
       <image
-         sodipodi:absref="/home/creawww/DATOS/020_NOVATERRA/Novaterra/carpetas_Novaterra/foto/7.jpg"
-         xlink:href="foto/7.jpg"
-         y="913.65173"
-         x="18.222775"
-         id="image4309"
+         sodipodi:absref="/home/creawww/DATOS/020_NOVATERRA/Novaterra/carpetas_Novaterra/foto/45.jpg"
+         xlink:href="foto/45.jpg"
+         y="236.29919"
+         x="474.47171"
+         id="image4307"
          preserveAspectRatio="none"
          height="117.07936"
          width="76.952805" />
+      <image
+         sodipodi:absref="/home/creawww/DATOS/020_NOVATERRA/Novaterra/carpetas_Novaterra/foto/7.jpg"
+         xlink:href="foto/7.jpg"
+         width="76.952805"
+         height="117.07936"
+         preserveAspectRatio="none"
+         id="image4309"
+         x="18.222775"
+         y="913.65173" />
     </g>
     <rect
        style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.00000012;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
@@ -1652,6 +1652,180 @@
          cy="501.48254"
          rx="31.887531"
          ry="31.636314" />
+    </g>
+    <g
+       id="g5405"
+       transform="matrix(2.022604,0,0,2.1322822,-272.05149,-532.79809)">
+      <path
+         inkscape:connector-curvature="0"
+         id="path5407"
+         d="m 329.90152,469.76926 5.09591,-2.89124 3.23513,4.75591"
+         style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#786daa;stroke-width:0.87381899px;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1" />
+      <path
+         style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#786daa;stroke-width:0.94623828px;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+         d="m 243.51066,551.71233 5.97787,0.70207 -1.44626,6.41901"
+         id="path5409"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path5411"
+         d="m 255.32772,545.89797 5.83564,1.47418 -2.26946,6.17616"
+         style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#786daa;stroke-width:0.94623828px;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1" />
+      <path
+         style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#786daa;stroke-width:0.94623828px;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+         d="m 233.01364,559.28936 6.01481,-0.22367 -0.444,6.56492"
+         id="path5413"
+         inkscape:connector-curvature="0" />
+      <path
+         style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#786daa;stroke-width:0.94623828px;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+         d="m 267.37657,541.52222 5.39095,2.67687 -3.52624,5.55527"
+         id="path5415"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path5417"
+         d="m 281.91656,538.67123 4.62198,3.85555 -4.71987,4.58457"
+         style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#786daa;stroke-width:0.94623828px;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path5419"
+         d="m 296.44333,540.33497 2.56741,4.94224 -4.68289,2.85221"
+         style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#786daa;stroke-width:0.83221233px;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1" />
+      <path
+         style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#786daa;stroke-width:0.83221233px;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+         d="m 307.79588,543.94017 1.89649,5.23647 -5.01674,2.21288"
+         id="path5421"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path5423"
+         d="m 318.06558,549.66534 1.06212,5.4671 -5.29906,1.40873"
+         style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#786daa;stroke-width:0.83221233px;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1" />
+      <path
+         style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#786daa;stroke-width:0.83221233px;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+         d="m 344.33875,576.54873 -1.07159,5.46526 -5.43988,-0.68723"
+         id="path5425"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path5427"
+         d="m 380.71383,594.01131 3.75889,4.10951 -3.78528,3.96688"
+         style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#786daa;stroke-width:0.83221233px;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1" />
+      <path
+         style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#786daa;stroke-width:0.83221233px;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+         d="m 390.87912,593.50305 4.58432,3.16249 -2.79989,4.71435"
+         id="path5429"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path5431"
+         d="m 400.89515,590.63736 5.36221,1.50467 -1.1195,5.3676"
+         style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#786daa;stroke-width:0.83221233px;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1" />
+      <path
+         style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#786daa;stroke-width:0.83221233px;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+         d="m 409.03227,584.64459 5.5597,-0.32709 0.69294,5.43915"
+         id="path5433"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path5435"
+         d="m 411.67127,534.13111 1.0367,-5.47197 5.44414,0.6525"
+         style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#786daa;stroke-width:0.83221233px;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1" />
+      <path
+         style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#786daa;stroke-width:0.83221233px;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+         d="m 405.30076,525.92118 -0.43603,-5.55222 5.4245,-0.79946"
+         id="path5437"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path5439"
+         d="m 396.66971,521.3576 -2.1558,-5.13515 4.89988,-2.46081"
+         style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#786daa;stroke-width:0.83221233px;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1" />
+      <path
+         style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#786daa;stroke-width:0.83221233px;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+         d="m 386.08909,517.83554 -2.82998,-4.79671 4.52238,-3.1004"
+         id="path5441"
+         inkscape:connector-curvature="0" />
+      <path
+         style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#786daa;stroke-width:0.87381899px;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+         d="m 334.1347,458.98561 5.73765,-1.18614 1.61784,5.51972"
+         id="path5443"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path5445"
+         d="m 341.43665,449.45459 5.75471,1.10043 -0.61819,5.71862"
+         style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#786daa;stroke-width:0.87381899px;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1" />
+      <path
+         style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#786daa;stroke-width:0.87381899px;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+         d="m 351.23521,443.70077 5.4216,2.22124 -1.74145,5.48198"
+         id="path5447"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path5449"
+         d="m 374.87569,437.46671 4.42082,3.84499 -3.41002,4.63212"
+         style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#786daa;stroke-width:0.87381899px;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1" />
+      <path
+         style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#786daa;stroke-width:0.87381899px;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+         d="m 361.8258,439.74533 4.92144,3.17915 -2.71861,5.06892"
+         id="path5451"
+         inkscape:connector-curvature="0" />
+      <path
+         style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#786daa;stroke-width:0.87381899px;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+         d="m 389.68392,437.34479 3.60953,4.61508 -4.22819,3.89964"
+         id="path5453"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path5455"
+         d="m 402.57572,439.66522 1.68647,5.61102 -5.35594,2.0973"
+         style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#786daa;stroke-width:0.87381899px;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1" />
+      <path
+         style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#786daa;stroke-width:0.87381899px;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+         d="m 413.90053,444.82494 0.42206,5.84377 -5.68443,0.87863"
+         id="path5457"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path5459"
+         d="m 423.38984,451.97403 -0.1264,5.85763 -5.7417,0.34306"
+         style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#786daa;stroke-width:0.87381899px;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1" />
+      <path
+         style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#786daa;stroke-width:0.87381899px;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+         d="m 431.76727,460.05751 -0.1264,5.85763 -5.7417,0.34306"
+         id="path5461"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path5463"
+         d="m 440.37907,467.45676 0.38267,5.84649 -5.69023,0.84029"
+         style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#786daa;stroke-width:0.87381899px;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path5465"
+         d="m 450.45702,471.44239 3.60953,4.61508 -4.22819,3.89964"
+         style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#786daa;stroke-width:0.87381899px;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path5467"
+         d="m 461.09294,470.90922 5.09634,2.89049 -2.42222,5.21705"
+         style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#786daa;stroke-width:0.87381899px;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1" />
+      <path
+         style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#786daa;stroke-width:0.87381899px;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+         d="m 470.49605,468.43965 5.4998,2.01985 -1.53816,5.54246"
+         id="path5469"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path5471"
+         d="m 478.70032,464.21095 5.85628,0.17777 0.2927,5.74449"
+         style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#786daa;stroke-width:0.87381899px;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1" />
+      <path
+         style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#786daa;stroke-width:0.87381899px;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+         d="m 485.23129,457.25873 5.69737,-1.3666 1.79119,5.46593"
+         id="path5473"
+         inkscape:connector-curvature="0" />
     </g>
   </g>
   <g
