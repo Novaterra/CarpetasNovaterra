@@ -1,6 +1,9 @@
 # Project Name
 NOVATERRA ONG
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Novaterra/CarpetasNovaterra/master/dise%C3%B1o.png" width="600"/>
+  <img src="https://raw.githubusercontent.com/Novaterra/CarpetasNovaterra/master/dise%C3%B1o1.png" width="600"/>
+</p>
 DISEÑO GRAFICO: Carpeta corporativa de Fundacion Novaterra 2016
 
 ## REALIZADO CON
